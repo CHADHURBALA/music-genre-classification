@@ -1,1 +1,1 @@
-# Music Genre Classification: CNN Built From Scratch
+# Music Genre Classification
